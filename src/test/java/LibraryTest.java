@@ -5,7 +5,7 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 /**
  * 
- * @author Espe Romero
+ * @author Espe Romero lobato
  *
  */
 public class LibraryTest {
